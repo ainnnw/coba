@@ -68,6 +68,8 @@ footer{
     width: 100%;
     background-color: rgb(225, 219, 219);
  font-family: 'Signika Negative', sans-serif;
+    bottom:0px;
+    position: absolute;
  
  }
  footer p{
